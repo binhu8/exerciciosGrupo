@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 const router = express.Router();
 const fs = require('fs');
-const porta = process.env.PORT || 3030
+let porta = process.env.PORT || 3030
 
 app.use(express.json({extended: true}));
 
@@ -11,7 +11,7 @@ const lerArquivo = ()=> {
     return (JSON.parse(content));
 }
 
-router.get('/produtos', (req, res)=>{
+router.get('/', (req, res)=>{
     const conteudo = lerArquivo();
     res.send(conteudo);
 })

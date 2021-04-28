@@ -2,9 +2,11 @@ const express = require('express');
 const app = express();
 const router = express.Router();
 const fs = require('fs');
+const cors = require('cors')
 let porta = process.env.PORT || 3030
 
 app.use(express.json({extended: true}));
+app.use(cors())
 
 const lerArquivo = ()=> {
     const content = fs.readFileSync('./data/db.json', 'utf-8');

@@ -1,0 +1,88 @@
+[
+    {
+        "id": 1,
+        "title": "Notebook Compaq Presario CQ-25 ",
+        "price": "1.749,99",
+        "description": "O Presario CQ-25 é o computador perfeito para quem gosta de tecnologia e entretenimento.",
+        "image": "https://images-americanas.b2w.io/produtos/01/00/img/1818873/8/1818873810_1GG.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Notebook Samsung Book E30",
+        "price": "1.749,99",
+        "description": "Design sofisticado, acabamento premium e dimensões compactas",
+        "image": "https://images-americanas.b2w.io/produtos/01/00/img/1772549/9/1772549992_1GG.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Notebook Dell Inspiron I15-3501-A25P",
+        "price": "3.199,99",
+        "description": " Processadores eficientes: possui uma capacidade de resposta incrível",
+        "image": "https://images-americanas.b2w.io/produtos/01/00/img/2969521/2/2969521221_1GG.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Notebook Lenovo Ultrafino Ideapad S145",
+        "price": "3.401,99",
+        "description": " Processadores eficientes: possui uma capacidade de resposta incrível",
+        "image": "https://images-americanas.b2w.io/produtos/01/00/img/2751079/4/2751079451_1GG.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Smartphone Samsung Galaxy S20 Fe",
+        "price": "2.198,99",
+        "description": "Tons para fazer inveja ao arco-íris",
+        "image": "https://images-americanas.b2w.io/produtos/01/00/img/2290965/9/2290965918_1GG.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Smartphone Samsung Galaxy A71",
+        "price": "1.198,99",
+        "description": "O Seu novo smartphone para fotos incriveis.",
+        "image": "https://images-americanas.b2w.io/produtos/01/00/img/1803603/2/1803603278_1GG.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Smartphone Motorola G9 Play",
+        "price": "1.498,99",
+        "description": "Bateria que dura, muita tela e muita camera.",
+        "image": "https://images-americanas.b2w.io/produtos/01/00/img/1962217/0/1962217075_1GG.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Smartphone Motorola One Fusion",
+        "price": "1.298,99",
+        "description": "Uma camera capaz de ver cada detalhe em você.",
+        "image": "https://images-americanas.b2w.io/produtos/01/00/img/1869608/4/1869608477_1GG.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Smart TV Led 24'",
+        "price": "998,99",
+        "description": "Otima resolução, cores incriveis e mantendo você sempre conectado.",
+        "image": "https://images-americanas.b2w.io/produtos/01/00/img7/01/00/item/3069256/0/3069256021_1GG.jpg"
+    },
+    {
+        "id": 10,
+        "title": "Smart TV Led 32'",
+        "price": "1.424,99",
+        "description": "Otima resolução, cores incriveis e mantendo você sempre conectado.",
+        "image": "https://images-americanas.b2w.io/produtos/01/00/img/1618074/6/1618074634_1GG.jpg"
+    },
+    {
+        "id": 11,
+        "title": "Smart TV Led 40'",
+        "price": "1.799,99",
+        "description": "Otima resolução, cores incriveis e mantendo você sempre conectado.",
+        "image": "https://images-americanas.b2w.io/produtos/01/00/img/1704351/0/1704351010_1GG.jpg"
+    },
+    {
+        "id": 12,
+        "title": "Smart TV Led 43'",
+        "price": "2.299,99",
+        "description": "Otima resolução, cores incriveis e mantendo você sempre conectado.",
+        "image": "https://images-americanas.b2w.io/produtos/01/00/img/1650696/8/1650696898_1GG.jpg"
+    }
+
+
+]
